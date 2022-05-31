@@ -40,9 +40,9 @@ GIVEN a command-line application that accepts user input
 
 # Example REAME.md using the Generator
 
-![ex1](./potential-enigma/Develop/images/ex1.png)
-![ex2](./potential-enigma/Develop/images/ex2.png)
-![ex3](./potential-enigma/Develop/images/ex3.png)
+![ex1](./images/ex1.png)
+![ex2](./images/ex2.png)
+![ex3](./images/ex3.png)
 
 # Questions
 
