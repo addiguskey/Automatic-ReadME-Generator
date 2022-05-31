@@ -21,6 +21,8 @@ As a FullStack coding student, GitHub is where I store and present all of my pro
 
 # Usage
 
+![walkthrugif](./images/walkthrough%202.gif)
+
 GIVEN a command-line application that accepts user input
 
 - WHEN I am prompted for information about my application repository
